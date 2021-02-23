@@ -1,0 +1,15 @@
+* {
+  border: 1px solid #555;
+}
+
+.Body {
+  display: flex;
+}
+
+.Filter {
+  flex: 1 1 auto;
+}
+
+.PeopleList {
+  flex: 3 3 auto;
+}
